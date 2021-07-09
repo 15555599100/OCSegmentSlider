@@ -1,0 +1,16 @@
+PODS:
+  - ZPDSegmentSlider (0.1.0)
+
+DEPENDENCIES:
+  - ZPDSegmentSlider (from `Lib/ZPDSegmentSlider`)
+
+EXTERNAL SOURCES:
+  ZPDSegmentSlider:
+    :path: Lib/ZPDSegmentSlider
+
+SPEC CHECKSUMS:
+  ZPDSegmentSlider: de978c14ed3f5c52abb0bbe399eed009c62ac46f
+
+PODFILE CHECKSUM: ee241d08281e5adda28f1564d206532f840af26d
+
+COCOAPODS: 1.10.1

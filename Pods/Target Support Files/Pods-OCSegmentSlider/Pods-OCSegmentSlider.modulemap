@@ -1,0 +1,6 @@
+framework module Pods_OCSegmentSlider {
+  umbrella header "Pods-OCSegmentSlider-umbrella.h"
+
+  export *
+  module * { export * }
+}
