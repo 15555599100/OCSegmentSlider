@@ -1,2 +1,3 @@
 ${PODS_ROOT}/Target Support Files/Pods-OCSegmentSlider/Pods-OCSegmentSlider-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Masonry/Masonry.framework
 ${BUILT_PRODUCTS_DIR}/ZPDSegmentSlider/ZPDSegmentSlider.framework

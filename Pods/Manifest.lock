@@ -1,16 +1,24 @@
 PODS:
-  - ZPDSegmentSlider (0.1.0)
+  - Masonry (1.1.0)
+  - ZPDSegmentSlider (1.0.1):
+    - Masonry
 
 DEPENDENCIES:
+  - Masonry
   - ZPDSegmentSlider (from `Lib/ZPDSegmentSlider`)
+
+SPEC REPOS:
+  trunk:
+    - Masonry
 
 EXTERNAL SOURCES:
   ZPDSegmentSlider:
     :path: Lib/ZPDSegmentSlider
 
 SPEC CHECKSUMS:
-  ZPDSegmentSlider: de978c14ed3f5c52abb0bbe399eed009c62ac46f
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  ZPDSegmentSlider: c93b4a445020d1129581b4240c2cbde7e3b0b625
 
-PODFILE CHECKSUM: ee241d08281e5adda28f1564d206532f840af26d
+PODFILE CHECKSUM: e045af78e692cb05d5c3f04c29d94660a2cbc214
 
 COCOAPODS: 1.10.1

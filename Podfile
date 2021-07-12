@@ -7,5 +7,6 @@ target 'OCSegmentSlider' do
 
   # Pods for OCSegmentSlider
   pod 'ZPDSegmentSlider' ,:path => 'Lib/ZPDSegmentSlider'
+  pod 'Masonry'
 
 end
